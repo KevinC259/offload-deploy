@@ -1,0 +1,1 @@
+import{aD as s,r as n}from"./index-CSkJ4Wth.js";const i=s("auth",()=>{const e=n(""),t=n("");function u(o,r){e.value=o,t.value=r}function a(){e.value="",t.value=""}return{token:e,name:t,setAuth:u,clearAuth:a}},{persist:{pick:["token","name"]}});export{i as u};

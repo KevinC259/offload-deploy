@@ -1,0 +1,1 @@
+import{r as e}from"./request-Bb7olHYx.js";const t=s=>e.post("/user/login",s),o=s=>e.post("/user/getUserList",s),u=s=>e.post("/user/addUser",s),n=s=>e.post("/user/updateUser",s),a=s=>e.post("/user/deleteUser",s);export{u as a,a as d,o as g,t as l,n as u};
